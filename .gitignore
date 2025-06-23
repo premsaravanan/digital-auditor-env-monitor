@@ -1,0 +1,40 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+.env.*
+
+# FastAPI
+instance/
+*.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Node.js
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React
+*.log
+.env.local
+.env.development
+.env.production
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
